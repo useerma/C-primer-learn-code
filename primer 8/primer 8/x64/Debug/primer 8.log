@@ -1,0 +1,11 @@
+﻿  15.cpp
+E:\app\primer 8\primer 8\biao.h(88,7): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“15.cpp”)
+  
+E:\app\primer 8\primer 8\biao.h(105,27): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“15.cpp”)
+  
+E:\app\primer 8\primer 8\biao.h(119,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“15.cpp”)
+  
+  primer 8.vcxproj -> E:\app\primer 8\x64\Debug\primer 8.exe
