@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\app\primer 6\primer 6\源.cpp(207,27): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  primer 6.vcxproj -> D:\app\primer 6\x64\Debug\primer 6.exe
